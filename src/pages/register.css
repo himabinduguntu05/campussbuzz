@@ -1,0 +1,26 @@
+/* Container Styles */
+.register-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 4px 4px 8px black;
+  }
+  
+  /* Heading */
+  h2 {
+    margin-bottom: 20px;
+    color: #007bff;
+  }
+  
+  /* User Type Selection */
+  .btn-group .btn {
+    width: 150px;
+  }
+  
+  /* Form */
+  .register-form {
+    margin-top: 20px;
+  }
+  
